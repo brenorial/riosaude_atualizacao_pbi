@@ -1,6 +1,3 @@
-
-## 📄 `explicacao_power_query_refresh.md`
-
 # 🔍 Power Query: Conexão com PostgreSQL e Adição de Data de Atualização
 
 Este documento explica passo a passo o código M utilizado no Power Query do Power BI para:
